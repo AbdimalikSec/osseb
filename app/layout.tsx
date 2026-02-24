@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Ossob Coffee - Premium Specialty Coffee',
+  title: 'Ossob Coffee',
   description: 'Experience the finest specialty coffee. Handpicked beans, artisanal roasting, and perfect brews at Ossob Coffee in Mogadishu.',
   generator: 'v0.app',
   icons: {
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: '/apple-icon.png', // inta lagu badala logo dooda 
   },
 }
 

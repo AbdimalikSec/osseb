@@ -21,9 +21,6 @@ export default function Header() {
       <nav className="container mx-auto px-6 sm:px-8 lg:px-12 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 text-2xl font-bold font-serif text-foreground">
-          <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
-            <span className="text-white text-sm font-bold">O</span>
-          </div>
           <span>Ossob</span>
         </Link>
 

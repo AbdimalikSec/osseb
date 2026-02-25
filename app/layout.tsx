@@ -12,23 +12,7 @@ export const metadata: Metadata = {
   title: 'Ossob Coffee',
   description: 'Experience the finest specialty coffee. Handpicked beans, artisanal roasting, and perfect brews at Ossob Coffee in Mogadishu.',
   generator: 'v0.app',
-  icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-     // inta lagu badala logo dooda 
-  },
+  // Favicon definitions removed
 }
 
 export default function RootLayout({

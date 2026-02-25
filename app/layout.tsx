@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png', // inta lagu badala logo dooda 
+     // inta lagu badala logo dooda 
   },
 }
 
